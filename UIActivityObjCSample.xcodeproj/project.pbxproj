@@ -207,6 +207,7 @@
 				TargetAttributes = {
 					8C9806EA1FCE565C00E7831A = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = NEQG4R5329;
 						ProvisioningStyle = Automatic;
 					};
 					8C9807031FCE565C00E7831A = {
@@ -422,7 +423,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = NEQG4R5329;
 				INFOPLIST_FILE = UIActivityObjCSample/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.monkey.UIActivityObjCSample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -433,7 +436,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = NEQG4R5329;
 				INFOPLIST_FILE = UIActivityObjCSample/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.monkey.UIActivityObjCSample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
